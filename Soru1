@@ -1,0 +1,15 @@
+Birinci Soru: [22,27,16,2,18,6] insertion sort sıralaması
+first step : [2,27,16,22,18,6]
+second step: [2,6,16,22,18,27]
+third step: [2,6,16,18,22,27]
+-
+İkinci Soru: /Big O = O(n^2)
+-
+Üçüncü Soru: Sıralandıktan sonra [18] ortalarda bulunduğu için average case kapsamına girer. 
+-
+Dördüncü Soru: [7,3,5,8,2,9,4,15,6] selection sort sıralamasının ilk dört adımı
+first step: [2|3,5,8,7,9,4,15,6]
+second step: [2,3|5,8,7,9,4,15,6]
+third step: [2,3,4|8,7,9,5,15,6]
+fourth step: [2,3,4,5|7,9,8,15,6]
+
